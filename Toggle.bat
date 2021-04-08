@@ -1,5 +1,5 @@
 @echo off
-set Period=1
+set Period=30
 set TN=_DrinkMoreHotWater
 
 

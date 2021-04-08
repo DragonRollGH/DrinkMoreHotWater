@@ -1,11 +1,11 @@
 @echo off
 set  Wait=10
 set  Interval=5
-set  Times=1
+set  Times=10
 
 
 %~dp0\src\f11.vbs
-@REM start mshta vbscript:createobject("wscript.shell").run("%~dp0\src\lock.bat %Wait% %Interval% %Times%",0)(window.close)
+start mshta vbscript:createobject("wscript.shell").run("%~dp0\src\lock.bat %Wait% %Interval% %Times%",0)(window.close)
 
 for /L %%i in (%Wait%,-1,1) do (
   cls
