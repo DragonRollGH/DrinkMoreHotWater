@@ -15,6 +15,7 @@
 
 
 修改触发频率：右键编辑“Toggle.bat”，修改“Period=”右边的值，单位分钟，等号左右不可有空格。
+
 ![Toggle](https://raw.githubusercontent.com/DragonRollGH/DrinkMoreHotWater/main/img/Toggle.png)
 
 修改锁屏参数：右键编辑“DrinkMoreHotWater.bat”，
