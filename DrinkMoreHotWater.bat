@@ -1,7 +1,7 @@
 @echo off
 set  Wait=10
-set  Interval=10
-set  Times=5
+set  Interval=5
+set  Times=10
 
 
 %~dp0\src\f11.vbs
