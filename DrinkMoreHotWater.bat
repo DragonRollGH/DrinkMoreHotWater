@@ -1,7 +1,7 @@
 @echo off
 set  Wait=10
-set  Interval=10
-set  Times=5
+set  Interval=5
+set  Times=10
 
 if "%time:~,5%" geq "01:00" if "%time:~,5%" leq "10:00" exit
 
