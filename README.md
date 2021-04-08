@@ -21,9 +21,9 @@
 
 修改锁屏参数：右键编辑“DrinkMoreHotWater.bat”，
 
-“Wait”：触发后的等待时间，单位秒。
+“Wait”：触发后的等待时间，单位秒；
 
-“Interval”：连续锁屏的间隔，单位秒。
+“Interval”：连续锁屏的间隔，单位秒；
 
 “Times”：连续锁屏的次数，单位次。
 
