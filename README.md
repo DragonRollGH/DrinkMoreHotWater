@@ -6,5 +6,5 @@
 
 运行截图：
 
-![Screenshot](https://github.com/DragonRollGH/DrinkMoreHotWater/blob/master/img/screeshot.png?raw=true)
+![Screenshot](https://raw.githubusercontent.com/DragonRollGH/DrinkMoreHotWater/main/img/screenshot.png)
 
