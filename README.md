@@ -13,6 +13,7 @@
 #### 双击“Toggle.bat”以启用提醒，再次双击停用。
 #### 默认每30分钟触发一次，触发后将等待10秒，然后每隔5秒，连续锁屏10次。
 
+## 参数修改
 
 修改触发频率：右键编辑“Toggle.bat”，修改“Period=”右边的值，单位分钟，等号左右不可有空格。
 
@@ -20,10 +21,10 @@
 
 修改锁屏参数：右键编辑“DrinkMoreHotWater.bat”，
 
-修改“A=”右边的值以修改触发后的等待时间，单位秒，等号左右不可有空格。
+“Wait”：触发后的等待时间，单位秒。
 
-修改“B=”右边的值以修改连续锁屏的间隔，单位秒，等号左右不可有空格。
+“Interval”：连续锁屏的间隔，单位秒。
 
-修改“C=”右边的值以修改连续锁屏的次数，单位次，等号左右不可有空格。
+“Times”：连续锁屏的次数，单位次。
 
 ![DrinkMoreHotWater](https://raw.githubusercontent.com/DragonRollGH/DrinkMoreHotWater/main/img/DrinkMoreHotWater.png)
